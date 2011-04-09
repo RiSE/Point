@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/18/trunk/point/vendor/plugins/dynamic_form/test
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/18/trunk/point/vendor/plugins/dynamic_form/test/test_helper.rb
+END
+dynamic_form_i18n_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/18/trunk/point/vendor/plugins/dynamic_form/test/dynamic_form_i18n_test.rb
+END
+dynamic_form_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/18/trunk/point/vendor/plugins/dynamic_form/test/dynamic_form_test.rb
+END

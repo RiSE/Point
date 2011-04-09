@@ -1,0 +1,55 @@
+<h1>Listing Doing Tasks</h1>
+
+<div align='right'>
+<a href='../tasks'>Todas as tarefas</a> | <a href='../tasks/todo'>To Do</a> | <a href='../tasks/doing'>Doing</a> | <a href='../tasks/done'>Done</a>
+</div>
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Project</th>
+    <th>Sprint</th>
+    <th>User story</th>
+    <th>Description</th>
+    <th>Effort</th>
+    <th>Pomodoros</th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @tasks.each do |task| %>
+  <tr>
+    <td><%= task.name %></td>
+    <td><%= task.project %></td>
+    <td><%= task.sprint %></td>
+    <td><%= task.user_story %></td>
+    <td><%= task.description %></td>
+    <td><%= task.effort %></td>
+    <td><%= task.pomodoros %></td>
+    <td><%= link_to 'Show', task %></td>
+    <td><%= link_to 'Edit', edit_task_path(task) %></td>
+    <td><%= link_to 'Destroy', task, :confirm => 'Are you sure?', :method => :delete %></td>
+    <td>
+      <% form_for(:example,
+                   :url => "example_start",
+                   :html => { :multipart => true }, :remote => true ) do |form| %>
+        <%= submit_tag "Start", :id => "example_submit_button" %>
+
+      <% end %>
+    </td>
+    <td>
+      <%= link_to "Stop",
+             :url => { :controller=>"tasks" , :action => "example_stop" }, :remote => true %>
+      <p id="example_use_me">
+      </p>
+
+    </td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+

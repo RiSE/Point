@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/18/trunk/point/vendor/plugins/dynamic_form
+END
+Rakefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/18/trunk/point/vendor/plugins/dynamic_form/Rakefile
+END
+init.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/18/trunk/point/vendor/plugins/dynamic_form/init.rb
+END
+dynamic_form.gemspec
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/18/trunk/point/vendor/plugins/dynamic_form/dynamic_form.gemspec
+END
+MIT-LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/18/trunk/point/vendor/plugins/dynamic_form/MIT-LICENSE
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/18/trunk/point/vendor/plugins/dynamic_form/README
+END

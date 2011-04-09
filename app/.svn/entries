@@ -1,0 +1,43 @@
+10
+
+dir
+20
+https://projeto-scrum.googlecode.com/svn/trunk/point/app
+https://projeto-scrum.googlecode.com/svn
+
+
+
+2011-04-07T19:10:07.894912Z
+20
+ednaldoonofre@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+64e23a05-130f-d8ab-4fc5-b1241dd09a03
+
+helpers
+dir
+
+models
+dir
+
+controllers
+dir
+
+mailers
+dir
+
+views
+dir
+

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/20/trunk/point/db/migrate
+END
+20110408135749_add_status_to_tasks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/21/trunk/point/db/migrate/20110408135749_add_status_to_tasks.rb
+END
+20110407181632_create_projects.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/20/trunk/point/db/migrate/20110407181632_create_projects.rb
+END
+20110406003215_create_tasks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/17/trunk/point/db/migrate/20110406003215_create_tasks.rb
+END
+20110408152733_add_pomodoros_to_tasks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/21/trunk/point/db/migrate/20110408152733_add_pomodoros_to_tasks.rb
+END
+20110407030619_create_users.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/18/trunk/point/db/migrate/20110407030619_create_users.rb
+END
+20110407181928_create_stories.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/20/trunk/point/db/migrate/20110407181928_create_stories.rb
+END
+20110406000053_create_sprints.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/16/trunk/point/db/migrate/20110406000053_create_sprints.rb
+END

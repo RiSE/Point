@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/20/trunk/point/app/helpers
+END
+sprints_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/13/trunk/point/app/helpers/sprints_helper.rb
+END
+application_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/13/trunk/point/app/helpers/application_helper.rb
+END
+user_sessions_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/18/trunk/point/app/helpers/user_sessions_helper.rb
+END
+tasks_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/17/trunk/point/app/helpers/tasks_helper.rb
+END
+stories_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/20/trunk/point/app/helpers/stories_helper.rb
+END
+projects_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/20/trunk/point/app/helpers/projects_helper.rb
+END

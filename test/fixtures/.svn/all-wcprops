@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/20/trunk/point/test/fixtures
+END
+users.yml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/18/trunk/point/test/fixtures/users.yml
+END
+sprints.yml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/16/trunk/point/test/fixtures/sprints.yml
+END
+user_sessions.yml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/18/trunk/point/test/fixtures/user_sessions.yml
+END
+tasks.yml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/17/trunk/point/test/fixtures/tasks.yml
+END
+stories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/20/trunk/point/test/fixtures/stories.yml
+END
+projects.yml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/20/trunk/point/test/fixtures/projects.yml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/16/trunk/point/public/stylesheets
+END
+.gitkeep
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/16/trunk/point/public/stylesheets/.gitkeep
+END
+scaffold.css
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/16/trunk/point/public/stylesheets/scaffold.css
+END
+default.css
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/22/trunk/point/public/stylesheets/default.css
+END

@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  project: MyString
+  name: MyString
+  as: MyString
+  description: MyText
+  so_that: MyText
+
+two:
+  project: MyString
+  name: MyString
+  as: MyString
+  description: MyText
+  so_that: MyText
